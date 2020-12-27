@@ -44,4 +44,5 @@ cacheSolve <- function(x, ...) {
 ## CacheMatrix1$get()
 ## cacheSolve(CacheMatrix1)
 ## CacheMatrix1$get()%*%cacheSolve(CacheMatrix1)
-## git commit -m "updated"
+## git commit -a -m "updated"
+## git push -u origin master  
